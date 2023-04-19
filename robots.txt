@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://data-hokky.github.io/sitemap.xml
